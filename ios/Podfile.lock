@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - telr_payment_gateway (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - telr_payment_gateway (from `.symlinks/plugins/telr_payment_gateway/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  telr_payment_gateway:
+    :path: ".symlinks/plugins/telr_payment_gateway/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  telr_payment_gateway: f9cde6b3f89b99395d5857ad838ee36084aab351
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.11.2
